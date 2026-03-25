@@ -136,4 +136,4 @@ A simple logistic regression model was trained to predict fraud likelihood using
 
 
 ## 💡 About This Project
-This project was built to focus on solving real business problems using data for the health, fitness, BFSI and tech industry.
+This project was built to focus on solving real business problems using data for the health, fitness, and tech industry.
