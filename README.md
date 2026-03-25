@@ -1,4 +1,4 @@
-## ⚡ 30-Second Summary of the Subscription Fraud Decetion Case Study
+## ⚡ 30-Second Summary of the Subscription Fraud Detection Case Study
 
 - Identified ~15% of users as fraudulent using behavioral, device, and payment signals  
 - Fraud is highly concentrated among:
