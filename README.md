@@ -1,16 +1,36 @@
-## ⚡ 30-Second Summary of the Subscription Fraud Detection Case Study
+# Subscription Fraud Detection Case Study
 
-- Identified ~15% of users as fraudulent using behavioral, device, and payment signals  
-- Fraud is highly concentrated among:
-  - Multi-account device usage (device farming)
-  - High refund frequency
-  - VPN and cloud-based traffic  
-- Chargebacks show near certain fraud, making them a critical downstream signal  
+## 🚀 Overview
 
-💰 Estimated revenue at risk: **$4,500/month** (based on $30 subscription)
+Built a fraud detection analysis for a subscription-based product using device, behavioral, and payment signals.
 
-👉 This simple rule based risk system effectively segments users into high risk cohorts, enabling faster detection, reduced manual review, and immediate cost savings.
+Identified high-risk user patterns, developed a rule-based risk scoring system, and estimated revenue exposure from fraudulent activity.
 
+👉 Focus: fraud prevention, risk segmentation, and revenue protection
+
+---
+
+## ⚡ Key Results (30-Second Read)
+
+- Identified ~15% of users as high-risk based on behavioral and payment signals  
+- Fraud is concentrated among:
+  - multi-account device usage (device farms)
+  - high refund frequency
+  - VPN / cloud-based traffic  
+- Chargebacks show near-100% fraud rates, acting as a strong downstream signal  
+
+💰 Estimated revenue exposure: **~$4,500/month**
+
+👉 Built a rule-based risk scoring system that segments users into low, medium, and high-risk tiers, enabling faster detection and reduced manual review effort
+
+
+## ▶️ Open the Project
+
+📊 **Main Analysis Notebook:**  
+  `Fraud_Case_Study.ipynb`
+
+🧪 **Dataset Generator:**  
+  `Fraud_Risk.ipynb`
 
 ## 📊 Key Analyses
 
