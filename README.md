@@ -23,6 +23,14 @@ Identified high-risk user patterns, developed a rule-based risk scoring system, 
 
 👉 Built a rule-based risk scoring system that segments users into low, medium, and high-risk tiers, enabling faster detection and reduced manual review effort
 
+## 📊 Key Visual Insights
+
+### Fraud Rate by Accounts per Device
+<img width="567" height="458" alt="Fraud Rate by Accounts per Device" src="https://github.com/user-attachments/assets/1953c76d-5cf0-4e41-aad4-f2d3e349258c" />
+
+
+### Fraud Rate by Risk Bucket
+<img width="567" height="530" alt="Fraud Rate by Risk Bucket" src="https://github.com/user-attachments/assets/90ea7f60-e99a-45c5-9175-c313060b5728" />
 
 ## ▶️ Open the Project
 
